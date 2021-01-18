@@ -1,0 +1,9 @@
+C:\Users\Huy Nguyen\source\repos\InferenceEngine\InferenceEngine\obj\Debug\InferenceEngine.csprojAssemblyReference.cache
+C:\Users\Huy Nguyen\source\repos\InferenceEngine\InferenceEngine\obj\Debug\InferenceEngine.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Desktop\ss\InferenceEngine\InferenceEngine\bin\Debug\InferenceEngine.exe.config
+C:\Users\Huy\Desktop\ss\InferenceEngine\InferenceEngine\bin\Debug\InferenceEngine.exe
+C:\Users\Huy\Desktop\ss\InferenceEngine\InferenceEngine\bin\Debug\InferenceEngine.pdb
+C:\Users\Huy\Desktop\ss\InferenceEngine\InferenceEngine\obj\Debug\InferenceEngine.csprojAssemblyReference.cache
+C:\Users\Huy\Desktop\ss\InferenceEngine\InferenceEngine\obj\Debug\InferenceEngine.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Desktop\ss\InferenceEngine\InferenceEngine\obj\Debug\InferenceEngine.exe
+C:\Users\Huy\Desktop\ss\InferenceEngine\InferenceEngine\obj\Debug\InferenceEngine.pdb
